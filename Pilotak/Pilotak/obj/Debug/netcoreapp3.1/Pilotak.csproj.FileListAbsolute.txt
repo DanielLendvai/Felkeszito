@@ -1,0 +1,14 @@
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Pilotak\Pilotak\bin\Debug\netcoreapp3.1\Pilotak.exe
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Pilotak\Pilotak\bin\Debug\netcoreapp3.1\Pilotak.deps.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Pilotak\Pilotak\bin\Debug\netcoreapp3.1\Pilotak.runtimeconfig.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Pilotak\Pilotak\bin\Debug\netcoreapp3.1\Pilotak.runtimeconfig.dev.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Pilotak\Pilotak\bin\Debug\netcoreapp3.1\Pilotak.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Pilotak\Pilotak\bin\Debug\netcoreapp3.1\Pilotak.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Pilotak\Pilotak\obj\Debug\netcoreapp3.1\Pilotak.csproj.AssemblyReference.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Pilotak\Pilotak\obj\Debug\netcoreapp3.1\Pilotak.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Pilotak\Pilotak\obj\Debug\netcoreapp3.1\Pilotak.AssemblyInfoInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Pilotak\Pilotak\obj\Debug\netcoreapp3.1\Pilotak.AssemblyInfo.cs
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Pilotak\Pilotak\obj\Debug\netcoreapp3.1\Pilotak.csproj.CoreCompileInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Pilotak\Pilotak\obj\Debug\netcoreapp3.1\Pilotak.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Pilotak\Pilotak\obj\Debug\netcoreapp3.1\Pilotak.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Pilotak\Pilotak\obj\Debug\netcoreapp3.1\Pilotak.genruntimeconfig.cache

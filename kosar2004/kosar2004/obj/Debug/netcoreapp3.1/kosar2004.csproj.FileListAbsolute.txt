@@ -1,0 +1,14 @@
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.exe
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.deps.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.runtimeconfig.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.runtimeconfig.dev.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\kosar2004\kosar2004\bin\Debug\netcoreapp3.1\kosar2004.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.csproj.AssemblyReference.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.AssemblyInfoInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.AssemblyInfo.cs
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.csproj.CoreCompileInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\kosar2004\kosar2004\obj\Debug\netcoreapp3.1\kosar2004.genruntimeconfig.cache

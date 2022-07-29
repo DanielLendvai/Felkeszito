@@ -1,0 +1,14 @@
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Jackie\Jackie\bin\Debug\netcoreapp3.1\Jackie.exe
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Jackie\Jackie\bin\Debug\netcoreapp3.1\Jackie.deps.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Jackie\Jackie\bin\Debug\netcoreapp3.1\Jackie.runtimeconfig.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Jackie\Jackie\bin\Debug\netcoreapp3.1\Jackie.runtimeconfig.dev.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Jackie\Jackie\bin\Debug\netcoreapp3.1\Jackie.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Jackie\Jackie\bin\Debug\netcoreapp3.1\Jackie.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.csproj.AssemblyReference.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.AssemblyInfoInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.AssemblyInfo.cs
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.csproj.CoreCompileInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Jackie\Jackie\obj\Debug\netcoreapp3.1\Jackie.genruntimeconfig.cache

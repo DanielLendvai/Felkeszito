@@ -1,0 +1,14 @@
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Balkezesek\Balkezesek\bin\Debug\netcoreapp3.1\Balkezesek.exe
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Balkezesek\Balkezesek\bin\Debug\netcoreapp3.1\Balkezesek.deps.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Balkezesek\Balkezesek\bin\Debug\netcoreapp3.1\Balkezesek.runtimeconfig.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Balkezesek\Balkezesek\bin\Debug\netcoreapp3.1\Balkezesek.runtimeconfig.dev.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Balkezesek\Balkezesek\bin\Debug\netcoreapp3.1\Balkezesek.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Balkezesek\Balkezesek\bin\Debug\netcoreapp3.1\Balkezesek.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Balkezesek\Balkezesek\obj\Debug\netcoreapp3.1\Balkezesek.csproj.AssemblyReference.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Balkezesek\Balkezesek\obj\Debug\netcoreapp3.1\Balkezesek.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Balkezesek\Balkezesek\obj\Debug\netcoreapp3.1\Balkezesek.AssemblyInfoInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Balkezesek\Balkezesek\obj\Debug\netcoreapp3.1\Balkezesek.AssemblyInfo.cs
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Balkezesek\Balkezesek\obj\Debug\netcoreapp3.1\Balkezesek.csproj.CoreCompileInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Balkezesek\Balkezesek\obj\Debug\netcoreapp3.1\Balkezesek.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Balkezesek\Balkezesek\obj\Debug\netcoreapp3.1\Balkezesek.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Balkezesek\Balkezesek\obj\Debug\netcoreapp3.1\Balkezesek.genruntimeconfig.cache

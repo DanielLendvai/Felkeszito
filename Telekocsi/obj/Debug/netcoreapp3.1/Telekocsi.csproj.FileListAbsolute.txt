@@ -1,0 +1,14 @@
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Telekocsi\bin\Debug\netcoreapp3.1\Telekocsi.exe
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Telekocsi\bin\Debug\netcoreapp3.1\Telekocsi.deps.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Telekocsi\bin\Debug\netcoreapp3.1\Telekocsi.runtimeconfig.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Telekocsi\bin\Debug\netcoreapp3.1\Telekocsi.runtimeconfig.dev.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Telekocsi\bin\Debug\netcoreapp3.1\Telekocsi.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Telekocsi\bin\Debug\netcoreapp3.1\Telekocsi.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Telekocsi\obj\Debug\netcoreapp3.1\Telekocsi.csproj.AssemblyReference.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Telekocsi\obj\Debug\netcoreapp3.1\Telekocsi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Telekocsi\obj\Debug\netcoreapp3.1\Telekocsi.AssemblyInfoInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Telekocsi\obj\Debug\netcoreapp3.1\Telekocsi.AssemblyInfo.cs
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Telekocsi\obj\Debug\netcoreapp3.1\Telekocsi.csproj.CoreCompileInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Telekocsi\obj\Debug\netcoreapp3.1\Telekocsi.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Telekocsi\obj\Debug\netcoreapp3.1\Telekocsi.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Telekocsi\obj\Debug\netcoreapp3.1\Telekocsi.genruntimeconfig.cache

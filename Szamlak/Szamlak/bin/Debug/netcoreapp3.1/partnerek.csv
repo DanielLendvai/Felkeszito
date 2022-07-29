@@ -1,0 +1,318 @@
+PARTNER;NEV
+0;Nullás
+1;suppliers or customer vagy valami hasonló hosszú
+2;Vevő+és Szállító is
+3;Pénzforgalmis
+4;Külföldi partner nem eu
+5;Több tételből 2 millió ÁFA
+6;Htz Hotel Szolgáltató Kft.
+7;Hét heted határ
+8;Akarki Jones
+9;Kisadózó
+B;Barteles partner
+E;MAGYAR KÖZLÖNY LAP- ÉS KÖNYVKIADÓ KFT
+M;magánszemély
+00;FIKTIV BERUHÁZÁSI PARTNER
+10;Magyar Lovassport Szövetség
+11;Belföldi, eu adószám
+12;MILK
+19;Eu-s partner
+20;Eon
+21;Egyszerű
+27;havonta 2x partner
+33;Pénzforgalmis II
+36;Küpper-Weisser GmbH
+90;90
+CY;Ciprua
+E2;E partner
+E5;Fél elektronikus
+ET;Külföldi partner
+EU;eu
+KP;Készpénzes partner
+LF;Lendvai Ferenc partner
+PP;DEBRECENI EGYETEM egybe cím
+TK;Tk
+U2;u2
+VZ;vinyo teszt partner
+000;Kistarcsai Jahn Ferenc kórház
+001;001
+007;Ügynökség
+121;Fuvarozó
+128;Fordított ÁFÁ-s
+186;Tőzsde
+222;Uj eu partner
+454;Tőzsde partner
+469;Tőzsde
+525;Mertz
+963;HVG 963
+964;Partner
+999;M & M
+AAM;Abai Vadásztársaság
+FÉL;Fél-elektronikus számlás partner
+GEN;Összevont számlák technikai partnere
+KP2;kp2
+KP3;Több számlából elérő
+MOL;Mol Magyar Olaj- És Gázipari Nyrt.
+PPP;Pátria
+USA;USA partner
+VZ2;VZoli teszt2
+1043;HVG TESZT
+1158;"szevasz Gyula" Kereskedelmi És Szolgáltató Kft.
+1245;Tőzsde
+1314;Tőzsde partner
+1402;Flexcom
+1446;BET partner
+1478;1444
+1930;Tőzsde partner
+2071;Tünde partner
+2169;Tőzsde
+2185;Tőzsde partner
+2246;Tőzsde partner
+7709;ESAB-MÓR HEGESZTŐANYAGGYÁRTÓ KFT.
+KINA;Xi’an St. Gain Trade Company Limited
+MOL2;mol2
+UTCA;Utca
+11455;Uj partner
+ANGOL;Angol cég
+B3052;Mol-lub Kenőanyag Gyártó Forgalmazó És
+B3053;Mol Magyar Olaj- És Gázipari Nyrt.
+EKULF;Elektronikus külföldi számla
+FOREX;FOREX
+HAVI2;havi 2 szla
+K0779;ATAGOR Sp. z.o.o.
+K0835;Caldic Denmark
+K1083;LLC PP BIOPHARMA
+KAMAT;Tőzsde kamathoz
+KUCSA;Kucsakerhez teszt partner
+MAGAN;Magán személy
+NAV10;Munkaadói járulék
+NAV11;Munkavállalói járulék
+NAV12;Áfa utalása
+NEMEU;Külföldi nem eu
+NEVES;Negyedéves számlázás
+TELEP;telephelyes partner
+TESZT;Teszt partner
+TOPEX;Topex
+114455;Almos
+122222;Uro-clin Egészségűgyi Szolgáltato És Kereskedelmi
+123123;Kürt Akadémia Kft.
+125888;Szegedi Dávid
+144447;Orosz
+300001;Bek teszt
+300664;Várdai Zita
+301998;FŐNIX-MED Zrt.
+305320;MKB-Pannónia Egészség- és Önsegélyező Pénztár
+307288;bek tesz
+312680;Gipsz Jakab
+313946;Medicina Egészség- és Önsegélyező Pénztár
+322386;Lengyel Péter
+325360;Koroknai Lídia, dr.
+329902;TEMPO Egészség- és Önsegélyező Pénztár
+333721;Szarvas Ferenc
+334519;Patika Egészségpénztár
+335378;Vértes Csaba, dr.
+340153;MorphoCom Marketing és Kommunikációs Tanácsadó Kft
+345490;Új Pillér Egészségpénztár
+346607;Horváth Balázs
+349379;Szűcs-Kádas Eszter
+349891;Pekács-Varga Viktória
+364565;Bocskorné Nagy Nikoletta Katalin
+380663;Tóth Viktória
+383104;Szabó Henrik Lászlóné
+385650;Torma Levente, dr.
+391577;Baki Szilvia
+399263;Kralovánszky Gábor, dr.
+EXPORT;Exportos partner
+KOMETA;KOMETA 99 ZRT
+MOL-UJ;Mol Magyar Olaj
+NEMALA;Nemalairos partner
+STORNO;Stornó partner
+3114615;Toyota Anyagmozgatás Magyarország Kft.
+3114835;Petróczki István
+3120767;Káré István
+3132984;Csokai Mónika
+3134462;Hajas Annamária
+3134778;Emőd Gyula
+3137688;Universal Medical Solutions E.ügyi Szolgáltató Kft
+3148158;Kirisics Anikó
+3152813;Helter Ádám
+3152991;Hoffmann Renáta
+3156537;Csikos Anett
+3161241;Szabó Ágota, dr.
+3164162;Ujfalussy Szabolcs
+3165038;Kaluczki Anikó Éva
+3170828;Kajos Gyula Attila
+3176180;Schmidt Judit Katalin
+3183815;Óvári Gábor
+3190565;Fadgyas Ábel
+3190677;MKB-Pannónia Egészség- és Önsegélyező Pénztár
+3191107;Takeda Pharma Kft.
+3192888;Juhász Krisztina
+3193733;Kolumbán Sámuel
+3198501;Soós László Ferencné
+3210678;Staniulionyté, Urté
+3213312;Georgievics Marica
+3217587;Generali Biztosító Zrt.,  Adószám: 10308024-4-44
+3219233;Békési Tibor János
+3221473;Al-Harbi Mabrouk Areej
+3222847;Nagy Csilla
+3223100;Kóthay Judit
+3224637;Páczkán János
+3224780;Bodnár Balázs
+3225574;Balázs Ágnes, dr.
+3228908;Goron Rita
+3228969;Mészáros Gábor Tamás
+3229501;Juhász Richárd
+3232918;Gipsz Jakab Apukája
+3234657;Kürti Zoé
+3235150;Udvardi Balázs
+3236647;Prémium Egészségpénztár Adószám:18177734-2-41
+3238278;Daubner Dóra, dr.
+3239755;Házy Fruzsina Carolina
+3240912;Márka István Zsolt
+3243100;Mayer Emil
+3244379;Pascoal Garrancho, Ricardo Filipe
+3245059;OTP Egészségpénztár
+3247855;Szebényi Csilla
+3251071;Liszkai Nóra
+3253637;Forgács Ferenc
+3253895;Prépost Attila Ferenc
+3254939;Szegedi Tamás
+3259089;Czillahó Anett
+3261600;Teladoc Hungary Kft.
+3266578;Miskolczi Judit
+3269326;Falussy Kitti
+3270629;Kisari Krisztián, dr.
+3272994;Tornyos Anikó
+3273308;Belák Eszter
+3273346;Pankotai Emese
+3273628;Joó Emőke
+3273928;Beroz, Masud
+3274305;Sternativo, Alice
+3274491;Kalló Nikolett
+3275787;Kovács Attila
+3276048;Nehodáné Csorba Anikó
+3276831;Süki Judit
+3276836;Santamaria, Patrizia
+3276865;Miklós Gábor
+3276978;Munkácsiné Gerák Gabriella
+3276981;Varga Tamás
+3276985;Simon Döniz
+3276990;Kugler Zoltán
+3276992;Aszódi Attila
+3277005;Varga Etelka
+3277015;Versinczky Aaron Leo
+3277016;Deák András
+3277017;Vitál Petra
+3277021;Bálint Borbála
+3277028;Horváth Zsolt
+3277029;Lesku Gábor
+3277031;Tűhegyi Boldizsár
+3277035;Szabóné Suhajda Zsuzsanna
+3277037;Szentes Sándor
+3277040;Olajos Izabella
+3277042;Nowotniak, Dominika
+3277044;Lénárt Márta
+3277048;Omari, Crittenden
+3277052;Padutsch Arnold
+4455632;mmmnnű
+CIMZETT;címzett partner
+DIAMOND;Diamond Bt
+FIZKEDV;Fizetési kedvezmény/Kucsaker Creaton
+FOREX11;forex
+FOREX12;FOREX
+I112279;BÜKKVIDÉKI VENDÉGLÁTÓ ZRT.
+I328896;ETL IMRE
+I541358;HVG teszt
+I643058;HVG partner
+KOZLONY;Magyar Hivatalos Közlöny és Lapkiadó Kft
+SCONTOS;scontós partner
+TELEKOM;Magyar Telekom
+10247747;Torus Kft.
+10260786;Táltos Reklám Kft.
+10389759;HVG
+10526581;Multy Hungária Kft.
+10611986;DETIM BUDAPEST Kft.
+10618684;MAZARS KFT.
+10653472;Etna Kft.
+10834895;GANZ KAPCSOLÓ- ÉS KÉSZÜLÉKGYÁR
+10847392;OBO BETTERMANN HUNGARY KFT / G
+11225898;Kapos Atlas Gépgyár Kft
+11313100;Villkász Kft.
+11593388;HVG
+11604608;hvg partner
+11686729;DO-Q-MENT Kft.
+11813253;PSP Siklóssy és Partner Vezetői Tanácsadó Kft.
+12250518;Donaldson Kft
+12310045;M.Á.K. '99 Kft.
+12311668;Info-M Kft.
+12312312;Mihalovics Réka
+12323669;Mihócza és Fia Kft.
+12343708;ADÓTERV KFT
+12345678;Mókus Csokija ZRt.
+12697667;SRÓF Kft.
+12723241;AGROTRAIN KFT
+13204716;Ász-kontír Kft.
+13461481;Gio Médiafilm Reklámügynökség Kft.
+13625036;Millenia Zrt.
+13848323;Media Total Team Kft.
+13861362;OMG Hungary Kft.
+13879572;Meringa Kft
+13985581;Monobrand Kft.
+14085622;ingatlan.com Zrt.
+14300011;GS1 Magyarország Nonprofit Zrt
+14652260;Cohouse Zrt.
+14655260;COHOUSE ZRT.
+14747074;Kürt Akadémia Kft.
+14858019;Pannonia Ethanol Zrt
+14940806;Easy Food Magyarország Kft
+15308809;MISKOLCI EGYETEM KÖNYVTÁR, LEV
+15329970;MAGYAR ÁLLAMKINCSTÁR
+18159422;Vasútegészségügyi Nonprofit Közhasznú Kft.
+18673876;Haemodinamikai Alapitvány
+22246482;Callidus Bt.
+22774547;Notebook BP Kft.
+23462847;Prime belváros Kft.
+23683596;Royal Futár Hungária Kft
+24281238;Káli-medencei Borok Háza Kft
+24915551;HVG
+25010305;HVG
+25520062;RedSand Management Kft
+25748770;Horvát-Service Kft.
+25944196;Kaptár Emberi Erőforrás Menedzsment Kft.
+28147910;Delton Bt.
+ÁFÁHOZ1M;Áfához partner
+ELOLEGES;Előleges partner
+FELPAPIR;Felcedulas Partner
+FIZFELSZ;Fizetési felszólítás próba
+KAPITANY;Kapitány Attila
+KISADOZO;Kisadózó
+TESZTDEV;Devizás partner
+VODAFONE;Vodafone Magyarország Zrt
+137571913;ANH KERT Kft.
+BEHAJTÁSI;Behajtási költségátalány/scontós
+BERUHÁZÁS;Beruházás partner
+FORDITOTT;Fordított áfás
+MAGANKULF;külföldi magán
+SZÁZEZER1;SZÁZEZER1
+SZÁZEZER2;SZÁZEZER2
+SZÁZEZER3;SZÁZEZER3
+SZÁZEZER4;sZÁZEZER4
+TELEPHELY;Telephelyes partner
+TOPSOFT30;TopDesk partner
+1459618213;Tolnay Vas és Építő
+ALLATIHAMI;allatihami.hu kft Pluto Állateledel Horgászbolt és
+HITELKERET;Hitelkeret teszt
+HU30482926;xy
+KÉSEDELMES;Késedelmes partner
+10507326242;Nádor Rendszerház Kft
+HITELKERET1;Hitelkeret ez is
+11593388;F.D;ONÁT Kft.;6600;Szentes;Donát 1.;;;;11593388-2-06;0
+13861362;OMG;Hungary Kft.;1068;Budapest;Dózsa György út 84/A;;
+204025836965;Közlöny teszt ember
+22774547;NOT;ebook BP Kft.;1239;Budapest;Bevásárló u. 2;;;;2277
+26953355-251;ALMOS ALFONS HANDELS GMBH
+EGYENLEGKOZL;Egyenlegközlős
+I541358;INTE;RCLINICAL KFT.;1027;BUDAPEST;VARSÁNYI I. UTCA 19.;
+I541360;INTE;Bonafarm-bábolna Takarmány Kft.
+I541361;INTE;Junior Market Kft.

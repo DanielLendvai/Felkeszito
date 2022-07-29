@@ -1,0 +1,14 @@
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Feherjek\Feherjek\bin\Debug\netcoreapp3.1\Feherjek.exe
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Feherjek\Feherjek\bin\Debug\netcoreapp3.1\Feherjek.deps.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Feherjek\Feherjek\bin\Debug\netcoreapp3.1\Feherjek.runtimeconfig.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Feherjek\Feherjek\bin\Debug\netcoreapp3.1\Feherjek.runtimeconfig.dev.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Feherjek\Feherjek\bin\Debug\netcoreapp3.1\Feherjek.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Feherjek\Feherjek\bin\Debug\netcoreapp3.1\Feherjek.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Feherjek\Feherjek\obj\Debug\netcoreapp3.1\Feherjek.csproj.AssemblyReference.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Feherjek\Feherjek\obj\Debug\netcoreapp3.1\Feherjek.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Feherjek\Feherjek\obj\Debug\netcoreapp3.1\Feherjek.AssemblyInfoInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Feherjek\Feherjek\obj\Debug\netcoreapp3.1\Feherjek.AssemblyInfo.cs
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Feherjek\Feherjek\obj\Debug\netcoreapp3.1\Feherjek.csproj.CoreCompileInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Feherjek\Feherjek\obj\Debug\netcoreapp3.1\Feherjek.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Feherjek\Feherjek\obj\Debug\netcoreapp3.1\Feherjek.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Feherjek\Feherjek\obj\Debug\netcoreapp3.1\Feherjek.genruntimeconfig.cache

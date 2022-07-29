@@ -1,0 +1,14 @@
+C:\work\dani\Vizsgafeladatok\Felkészítő\Programozas\KemiaiElemek\obj\Debug\netcoreapp3.1\KemiaiElemek.csproj.AssemblyReference.cache
+C:\work\dani\Vizsgafeladatok\Felkészítő\Programozas\KemiaiElemek\obj\Debug\netcoreapp3.1\KemiaiElemek.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\dani\Vizsgafeladatok\Felkészítő\Programozas\KemiaiElemek\obj\Debug\netcoreapp3.1\KemiaiElemek.AssemblyInfoInputs.cache
+C:\work\dani\Vizsgafeladatok\Felkészítő\Programozas\KemiaiElemek\obj\Debug\netcoreapp3.1\KemiaiElemek.AssemblyInfo.cs
+C:\work\dani\Vizsgafeladatok\Felkészítő\Programozas\KemiaiElemek\obj\Debug\netcoreapp3.1\KemiaiElemek.csproj.CoreCompileInputs.cache
+C:\work\dani\Vizsgafeladatok\Felkészítő\Programozas\KemiaiElemek\bin\Debug\netcoreapp3.1\KemiaiElemek.exe
+C:\work\dani\Vizsgafeladatok\Felkészítő\Programozas\KemiaiElemek\bin\Debug\netcoreapp3.1\KemiaiElemek.deps.json
+C:\work\dani\Vizsgafeladatok\Felkészítő\Programozas\KemiaiElemek\bin\Debug\netcoreapp3.1\KemiaiElemek.runtimeconfig.json
+C:\work\dani\Vizsgafeladatok\Felkészítő\Programozas\KemiaiElemek\bin\Debug\netcoreapp3.1\KemiaiElemek.runtimeconfig.dev.json
+C:\work\dani\Vizsgafeladatok\Felkészítő\Programozas\KemiaiElemek\bin\Debug\netcoreapp3.1\KemiaiElemek.dll
+C:\work\dani\Vizsgafeladatok\Felkészítő\Programozas\KemiaiElemek\bin\Debug\netcoreapp3.1\KemiaiElemek.pdb
+C:\work\dani\Vizsgafeladatok\Felkészítő\Programozas\KemiaiElemek\obj\Debug\netcoreapp3.1\KemiaiElemek.dll
+C:\work\dani\Vizsgafeladatok\Felkészítő\Programozas\KemiaiElemek\obj\Debug\netcoreapp3.1\KemiaiElemek.pdb
+C:\work\dani\Vizsgafeladatok\Felkészítő\Programozas\KemiaiElemek\obj\Debug\netcoreapp3.1\KemiaiElemek.genruntimeconfig.cache

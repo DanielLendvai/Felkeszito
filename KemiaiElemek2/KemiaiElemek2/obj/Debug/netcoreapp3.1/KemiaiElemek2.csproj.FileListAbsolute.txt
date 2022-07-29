@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\KemiaiElemek2\KemiaiElemek2\bin\Debug\netcoreapp3.1\KemiaiElemek2.exe
+C:\Users\Daniel\source\repos\KemiaiElemek2\KemiaiElemek2\bin\Debug\netcoreapp3.1\KemiaiElemek2.deps.json
+C:\Users\Daniel\source\repos\KemiaiElemek2\KemiaiElemek2\bin\Debug\netcoreapp3.1\KemiaiElemek2.runtimeconfig.json
+C:\Users\Daniel\source\repos\KemiaiElemek2\KemiaiElemek2\bin\Debug\netcoreapp3.1\KemiaiElemek2.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\KemiaiElemek2\KemiaiElemek2\bin\Debug\netcoreapp3.1\KemiaiElemek2.dll
+C:\Users\Daniel\source\repos\KemiaiElemek2\KemiaiElemek2\bin\Debug\netcoreapp3.1\KemiaiElemek2.pdb
+C:\Users\Daniel\source\repos\KemiaiElemek2\KemiaiElemek2\obj\Debug\netcoreapp3.1\KemiaiElemek2.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\KemiaiElemek2\KemiaiElemek2\obj\Debug\netcoreapp3.1\KemiaiElemek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\KemiaiElemek2\KemiaiElemek2\obj\Debug\netcoreapp3.1\KemiaiElemek2.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\KemiaiElemek2\KemiaiElemek2\obj\Debug\netcoreapp3.1\KemiaiElemek2.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\KemiaiElemek2\KemiaiElemek2\obj\Debug\netcoreapp3.1\KemiaiElemek2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\KemiaiElemek2\KemiaiElemek2\obj\Debug\netcoreapp3.1\KemiaiElemek2.dll
+C:\Users\Daniel\source\repos\KemiaiElemek2\KemiaiElemek2\obj\Debug\netcoreapp3.1\KemiaiElemek2.pdb
+C:\Users\Daniel\source\repos\KemiaiElemek2\KemiaiElemek2\obj\Debug\netcoreapp3.1\KemiaiElemek2.genruntimeconfig.cache

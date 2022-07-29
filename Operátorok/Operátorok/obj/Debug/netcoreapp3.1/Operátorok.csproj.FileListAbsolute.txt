@@ -1,0 +1,14 @@
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Operátorok\Operátorok\bin\Debug\netcoreapp3.1\Operátorok.exe
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Operátorok\Operátorok\bin\Debug\netcoreapp3.1\Operátorok.deps.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Operátorok\Operátorok\bin\Debug\netcoreapp3.1\Operátorok.runtimeconfig.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Operátorok\Operátorok\bin\Debug\netcoreapp3.1\Operátorok.runtimeconfig.dev.json
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Operátorok\Operátorok\bin\Debug\netcoreapp3.1\Operátorok.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Operátorok\Operátorok\bin\Debug\netcoreapp3.1\Operátorok.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.csproj.AssemblyReference.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.AssemblyInfoInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.AssemblyInfo.cs
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.csproj.CoreCompileInputs.cache
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.dll
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.pdb
+D:\GIT\dani\Vizsgafeladatok\Felkészítő\Programozas\Operátorok\Operátorok\obj\Debug\netcoreapp3.1\Operátorok.genruntimeconfig.cache
